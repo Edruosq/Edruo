@@ -3,6 +3,6 @@ import React from 'react'
 import App from './App'
 
 ReactDOM.render(
-    <App/>,
+    <App title="哈哈哈"/>,
     document.getElementById("app")
 )
